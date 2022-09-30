@@ -1,0 +1,20 @@
+{
+  "actors": [
+    {
+      "id": 2,
+      "name": "admin",
+      "lastName": ".",
+      "credentials": {
+        "username": "admin",
+        "password": "serenity"
+      },
+      "type": "single company",
+      "description": "User with a lot companies",
+      "companies": [
+        {
+          "key": "Siigo Automation Dev"
+        }
+      ]
+    }
+  ]
+}

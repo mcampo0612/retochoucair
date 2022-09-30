@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="com.choucair.features.startsharp.StartSharp" skipped="0" tests="1" time="99.33" timestamp="2022-09-30 03:37:46"><testcase classname="com.choucair.features.startsharp.StartSharp" name="Should meeting and organization be created when submit the complete registration data"/></testsuite>
